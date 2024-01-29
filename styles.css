@@ -5,7 +5,6 @@ body {
     padding: 0;
 }
 
-
 .conteudo-principal {
     display: grid;
     justify-content: center;
@@ -25,7 +24,7 @@ body {
 }
 
 form {
-    width: 350px;
+    width: 450px;
     background-color: #08223a3d;
     padding: 20px;
     border-radius: 8px;
@@ -42,7 +41,7 @@ label {
 }
 
 input,
-select {
+select, textarea {
     width: 100%;
     padding: 10px;
     margin-bottom: 15px;
